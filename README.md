@@ -4,7 +4,7 @@
 
 Este repositório tem o objetivo de mostrar um desafio comum de classificação, usando o conjunto de dados do Titanic através do desafio Kaggle. Com os algoritmos de Machine Learning devemos destacar modelos capazes de prever se um passageiro sobreviveu ao Titanic a partir de algumas informações como: Identificação do passageiro, Tipo de Classe do ingresso, Sexo do passageiro, Número da cabine do passageiro e entre outras. Para maiores informações acessar: (https://www.kaggle.com/competitions/titanic/overview).
 
-Nos galhos mestres (branches master) vocês poderam ver meus códigos e os dados disponibilizados pelo desafio. Nesse modelo didático vocês irão ver etapas como: 
+Nos galhos mestres (branches master) vocês poderão ver meus códigos e os dados disponibilizados pelo desafio. Nesse modelo didático vocês irão ver etapas como: 
 
 ### Wrangling;
 ### Análise de dados ( descritiva e gráfica);
