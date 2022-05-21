@@ -1,4 +1,4 @@
-### Desafio Kaggle 
+# Desafio Kaggle 
 
 ![Captura de Tela 2022-05-21 às 16 32 41](https://user-images.githubusercontent.com/94873104/169666637-39916326-6a9a-408a-b641-0bf92903aca0.png)
 
@@ -6,14 +6,14 @@ Este repositório tem o objetivo de mostrar um desafio comum de classificação,
 
 Nos galhos mestres (branches master) vocês poderam ver meus códigos e os dados disponibilizados pelo desafio. Nesse modelo didático vocês irão ver etapas como: 
 
-# Wrangling;
-# Análise de dados ( descritiva e gráfica);
-# Pré-processamento dos dados;
-# Tratamento dos valores faltantes;
-# Merge;
-# Label-Enconding;
-# One-Hot-Encoding;
-# Diversos modelos de Machine Learning.
+### Wrangling;
+### Análise de dados ( descritiva e gráfica);
+### Pré-processamento dos dados;
+### Tratamento dos valores faltantes;
+### Merge;
+### Label-Enconding;
+### One-Hot-Encoding;
+### Diversos modelos de Machine Learning.
 
 
 
